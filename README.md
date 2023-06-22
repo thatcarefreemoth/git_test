@@ -1,2 +1,7 @@
 # git_test
-Test repository
+            0
+            |<|@">
+            /|
+My first github repository
+Hello Odin!
+
